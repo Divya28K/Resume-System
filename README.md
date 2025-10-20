@@ -32,3 +32,5 @@ A modern **Resume Tracking System** built with **React** and **Vite** (or Next.j
 ```bash
 git clone https://github.com/Divya28K/Resume-System.git
 cd Resume-System
+npm install
+npm run dev
